@@ -1,5 +1,6 @@
 <h1>STONE-PAPER_SCISSOR_API</h1>
-<h3>localhost:9000/game/start  -->To get Game Data </h3>
+<h3>http://localhost:9000/game/start  -->To get Game Data </h3>
+<h4>Few ScreenShots :-</h4>
 
 <img src="https://user-images.githubusercontent.com/56843176/131844865-91c528d9-a3c4-462e-87a9-e855ccaf843f.png" />
 <img src="https://user-images.githubusercontent.com/56843176/131844884-b0383766-9d53-4a60-bab7-077e9f596f98.png" />
