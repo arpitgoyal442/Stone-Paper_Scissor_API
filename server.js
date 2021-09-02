@@ -18,7 +18,7 @@ app.use(express.json());
 
 //Routings
 
-app.get("/", async (req,res)=>{
+app.get("/game/start", async (req,res)=>{
     
     const ans=[];
 
